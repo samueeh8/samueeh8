@@ -1,4 +1,6 @@
-<img src="https://your-image-url.com/banner.png" alt="banner" width="100%">
+<p align="center">
+  <img src="./Gemini_Generated_Image_jmimkyjmimkyjmim.jpeg" alt="Samuel Hurtado Ortega - Full Stack Developer" width="100%">
+</p>
 
 # Samuel Hurtado Ortega
 
